@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: weasel:0.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/weasel/weasel/0.6.0/weasel-0.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1438949262026">{:repl-history {:ide [], :local [&quot;(browser-repl)&quot; &quot;(ns nginxreverseproxy.core)\n(swap! app-state assoc :text \&quot;Interactivity FTW\&quot;)&quot; &quot;(run)&quot;], :remote []}}</component>
+</project>
